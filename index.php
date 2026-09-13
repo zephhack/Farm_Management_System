@@ -212,10 +212,10 @@
     <nav>
         <a href="/Farm_Management_System/index.php" class="logo">Lima Digital</a>
         <ul class="nav-links">
-            <li><a href="/Farm_Management_System/modules/EquipmentManagement/machineryReg/machinery.php">Machinery Registry</a></li>
-            <li><a href="/Farm_Management_System/modules/EquipmentManagement/equipmentAllocation/equipment.php">Field Operations</a></li>
-            <li><a href="/Farm_Management_System/modules/EquipmentManagement/maintenance/maintenance.php">Maintenance</a></li>
-            <li><a href="/Farm_Management_System/modules/EquipmentManagement/fuelManagement/fuel.php">Fuel Logs</a></li>
+            <li><a href="/Farm_Management_System/modules/EmployeeManagement/attendanceTracking/attendance.php">Attendance</a></li>
+            <li><a href="/Farm_Management_System/modules/EmployeeManagement/employeeReg/employeeReg.php">Employee Registration</a></li>
+            <li><a href="/Farm_Management_System/modules/EmployeeManagement/performanceTracking/performance.php">Performance Monitoring</a></li>
+            <li><a href="/Farm_Management_System/modules/EmployeeManagement/taskManagement/taskManagement.php">Task Management</a></li>
             <li><a href="/Farm_Management_System/login.php" class="btn-nav">System Portal</a></li>
         </ul>
     </nav>
